@@ -20,7 +20,7 @@ A SwiftUI iOS app that blocks unwanted calls and text notifications from specifi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AreaBlocker.git
+   git clone https://github.com/nyandrews/AreaBlocker.git
    ```
 
 2. Open `AreaCodeBlocker.xcodeproj` in Xcode
